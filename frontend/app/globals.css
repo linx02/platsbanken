@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --dark-blue: #000056;
+  --light-gray: #f5f5f5;
+  --text-gray: #333333;
+  --light-green: #f1f8ec;
+}
+
+.margin-x {
+  margin: 0 7rem;
+}
+
+.padding-x {
+  padding: 0 7rem;
+}
